@@ -1,5 +1,9 @@
 [
   {
+    "package": "designr",
+    "oncran": true
+  },
+  {
     "package": "hypr",
     "oncran": true
   }

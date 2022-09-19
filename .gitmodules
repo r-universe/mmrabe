@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "designr"]
+	path = designr
+	url = https://github.com/mmrabe/designr
+	shallow = true
+	registered = true
 [submodule "hypr"]
 	path = hypr
 	url = https://github.com/mmrabe/hypr
